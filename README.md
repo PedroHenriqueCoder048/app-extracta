@@ -61,3 +61,4 @@ Para instalar o Docker para poder rodar o container
 <p>Agora vamos rodar o container</p>
 
 `docker run -p 8000:8000 aoo-extracta`
+
