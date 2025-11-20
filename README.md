@@ -28,7 +28,7 @@
 
 <p>OBS: por se tratar de uma IA local , é necessário ter uma maquina com uma GPU.</p>
 
-<p>Mais informações podem ser encontradas na </p>[Documetação](https://docs.ollama.com/)
+<p>Mais informações podem ser encontradas na [Documentação](https://docs.ollama.com)</p>
 
 <p>Rodar Ollama depois de instalado</p>
 
