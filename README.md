@@ -7,10 +7,10 @@
    </td>
   <td>
    <img
-    src="https://img.icons8.com/?size=100&id=43147&format=png&color=000000"
+    src="https://img.icons8.com/?size=100&id=47052&format=png&color=000000"
     />
    <img
-    src="https://img.icons8.com/?size=100&id=47052&format=png&color=000000"
+    src="https://img.icons8.com/?size=100&id=43147&format=png&color=000000"
     />
   </td>
  </tr>
@@ -21,6 +21,7 @@
 <p>Essa aplicação o usuário insere um pdf no qual ultilizando IA e OCR extrai os dados e converte de acordo com a necessidade do usuário</p>
 
 ---
+
 
 
 
