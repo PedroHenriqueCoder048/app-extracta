@@ -6,7 +6,6 @@
 
 ---
 
-![Interface do usuário do Extracta]()
 
 
 
