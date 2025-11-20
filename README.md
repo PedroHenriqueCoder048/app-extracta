@@ -25,11 +25,17 @@
 
 <h3>Ollama</h3>
 
-Ollma com o IA de escala local deepseek com 7 bilhões de parâmetros.
+<p>Ollma com o IA de escala local deepseek com 7 bilhões de parâmetros.</p>
 
-OBS: por se tratar de uma IA local , é necessário ter uma maquina com uma GPU.
+<p>OBS: por se tratar de uma IA local , é necessário ter uma maquina com uma GPU.</p>
 
-Mais informações podem ser encontradas na Documentação[aqui](https://docs.ollama.com/)
+<p>Mais informações podem ser encontradas na [Documetação](https://docs.ollama.com/)</p>
+
+<p>Rodar Ollama depois de instalado</p>
+
+`ollama run deepseek-r1`
+
+<p>No caso da versão já configurada no container</p>
 
 `ollama run deepseek-r1:7b`
 
@@ -40,6 +46,7 @@ Caso queira usar um modelo com mais ou menos parâmetros, acesse pdf/views.py e 
      model='deepseek-r1:7b',
      temperature=0,
      base_url="http://host.docker.internal:11434",)`
+
 
 
 
