@@ -6,7 +6,7 @@
      </h2>
    </td>
    <td>
-    <img scr="https://img.icons8.com/?size=100&id=1725&format=png&color=000000"
+    <img       scr="https://img.icons8.com/size=100&id=1725&format=png&color=000000"
      width="70" heigth="70" >
    </td>
  </tr>
@@ -17,6 +17,7 @@
 <p>Essa aplicação o usuário insere um pdf no qual ultilizando IA e OCR extrai os dados e converte de acordo com a necessidade do usuário</p>
 
 ---
+
 
 
 
