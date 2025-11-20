@@ -2,12 +2,12 @@
  <tr>
    <td>
      <h2>
-      App Extracta
+      Extracta
      </h2>
    </td>
    <td>
     <img       
-     scr="https://img.icons8.com/size=100&id=43147&format=png&color=000000"
+     scr="https://icons8.com.br/icon/43147/combo-chart"
      width="70" heigth="70" >
    </td>
  </tr>
@@ -18,6 +18,7 @@
 <p>Essa aplicação o usuário insere um pdf no qual ultilizando IA e OCR extrai os dados e converte de acordo com a necessidade do usuário</p>
 
 ---
+
 
 
 
