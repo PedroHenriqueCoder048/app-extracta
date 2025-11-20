@@ -1,9 +1,9 @@
 ﻿<table>
  <tr>
    <td>
-     <h2>
-      Extractar
-     </h2>
+     <h1>
+      EXTRACTA
+     </h1>
    </td>
   <td>
    <img
@@ -21,6 +21,7 @@
 <p>Essa aplicação o usuário insere um pdf no qual ultilizando IA e OCR extrai os dados e converte de acordo com a necessidade do usuário</p>
 
 ---
+
 
 
 
