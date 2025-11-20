@@ -21,6 +21,8 @@
 <p>Essa aplicação o usuário insere um pdf no qual ultilizando IA e OCR extrai os dados e converte de acordo com a necessidade do usuário</p>
 
 ---
+<h2>Requisitos para rodar na máquina local</h2>
+
 
 
 
