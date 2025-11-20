@@ -28,7 +28,7 @@
 
 <p>OBS: por se tratar de uma IA local , é necessário ter uma maquina com uma GPU.</p>
 
-<p>Mais informações podem ser encontradas na [Documentação](https://docs.ollama.com)</p>
+<p>Mais informações podem ser encontradas na Documentação :https://docs.ollama.com</p>
 
 <p>Rodar Ollama depois de instalado</p>
 
@@ -50,7 +50,7 @@ Caso queira usar um modelo com mais ou menos parâmetros, acesse pdf/views.py e 
 
 Para instalar o Docker para poder rodar o container
 
-<p>Para a instalação você pode ir direto na [Documetação](https://docs.docker.com/?_gl=1*1v27m4w*_gcl_au*MTk1OTAyODQwNC4xNzYzNjY1NDU2*_ga*NTI3NDg3MTI5LjE3NjM2NjU0NTc.*_ga_XJWPQMJYHQ*czE3NjM2NjU0NTYkbzEkZzEkdDE3NjM2NjU0NTgkajU4JGwwJGgw)</p>
+<p>Para a instalação você pode ir direto na <a href="https://docs.docker.com/?_gl=1*1v27m4w*_gcl_au*MTk1OTAyODQwNC4xNzYzNjY1NDU2*_ga*NTI3NDg3MTI5LjE3NjM2NjU0NTc.*_ga_XJWPQMJYHQ*czE3NjM2NjU0NTYkbzEkZzEkdDE3NjM2NjU0NTgkajU4JGwwJGgw">Documentação</a></p>
 
 <p>OBS: Caso o seu SO seja windows não esqueça de instalar o wsl</p>
 
@@ -61,5 +61,6 @@ Para instalar o Docker para poder rodar o container
 <p>Agora vamos rodar o container</p>
 
 `docker run -p 8000:8000 aoo-extracta`
+
 
 
