@@ -1,11 +1,13 @@
 ﻿<table>
  <tr>
    <td>
-     # App Extracta
+     <h2>
+      App Extracta
+     </h2>
    </td>
-  <td>
-   i[icon-data-dispersal](https://img.icons8.com/?size=100&id=1725&format=png&color=000000)
-  </td>
+   <td>
+    <img scr="https://img.icons8.com/?size=100&id=1725&format=png&color=000000">
+   </td>
  </tr>
  </table>
 
@@ -14,6 +16,7 @@
 <p>Essa aplicação o usuário insere um pdf no qual ultilizando IA e OCR extrai os dados e converte de acordo com a necessidade do usuário</p>
 
 ---
+
 
 
 
