@@ -4,13 +4,15 @@
      <h1>
       EXTRACTAR
      </h1>
-      <img
+   </td>
+  <td>
+   <img
     src="https://img.icons8.com/?size=100&id=47052&format=png&color=000000"
     />
    <img
     src="https://img.icons8.com/?size=100&id=43147&format=png&color=000000"
     />
-   </td>
+  </td>
  </tr>
  </table>
 
@@ -21,8 +23,15 @@
 ---
 <h2>Requisitos para rodar na máquina local</h2>
 
-<h3></h3>
+<h3>Ollama</h3>
 
+Ollma com o IA de escala local deepseek com 7 bilhões de parâmetros.
+
+OBS: por se tratar de uma IA local , é necessário ter uma maquina com uma GPU.
+
+`ollama run deepseek-r1:7b`
+
+Caso queira usar um modelo com mais ou menos parâmetros, acesse 
 
 
 
