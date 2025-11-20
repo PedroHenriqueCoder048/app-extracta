@@ -4,15 +4,13 @@
      <h1>
       EXTRACTAR
      </h1>
-   </td>
-  <td>
-   <img
+      <img
     src="https://img.icons8.com/?size=100&id=47052&format=png&color=000000"
     />
    <img
     src="https://img.icons8.com/?size=100&id=43147&format=png&color=000000"
     />
-  </td>
+   </td>
  </tr>
  </table>
 
@@ -24,6 +22,7 @@
 <h2>Requisitos para rodar na máquina local</h2>
 
 <h3></h3>
+
 
 
 
