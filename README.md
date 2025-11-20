@@ -28,7 +28,7 @@
 
 <p>OBS: por se tratar de uma IA local , é necessário ter uma maquina com uma GPU.</p>
 
-<p>Mais informações podem ser encontradas na [Documetação](https://docs.ollama.com/)</p>
+<p>Mais informações podem ser encontradas na </p>[Documetação](https://docs.ollama.com/)
 
 <p>Rodar Ollama depois de instalado</p>
 
@@ -61,4 +61,5 @@ Para instalar o Docker para poder rodar o container
 <p>Agora vamos rodar o container</p>
 
 `docker run -p 8000:8000 aoo-extracta`
+
 
