@@ -5,11 +5,6 @@
       Extractar
      </h2>
    </td>
-   <td>
-     ![<img       
-     src="https://icons8.com/icon/43147/combo-chart"
-     width="70" heigth="70"/>](https://img.icons8.com/ios-filled/100/combo-chart.png)
-   </td>
  </tr>
  </table>
 
@@ -18,6 +13,7 @@
 <p>Essa aplicação o usuário insere um pdf no qual ultilizando IA e OCR extrai os dados e converte de acordo com a necessidade do usuário</p>
 
 ---
+
 
 
 
