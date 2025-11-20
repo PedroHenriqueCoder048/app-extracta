@@ -4,7 +4,9 @@
 
 <p>Essa aplicação o usuário insere um pdf no qual ultilizando IA e OCR extrai os dados e converte de acordo com a necessidade do usuário</p>
 ___
+
 ![Interface do usuário do Extracta]()
+
 
 
 
